@@ -1,4 +1,4 @@
-Controle Financeiro
+## Controle Financeiro
 
 Esse projeto tem por objetivo registrar as despesas e receitas de uma pessoa,
 para um maior controle do seu dinheiro.
